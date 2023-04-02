@@ -1,4 +1,4 @@
-# Mongodb Flask and Go Application
+# Mongodb Flask Application
 
 ### Creating mongodb cluster using docker compose
 1. You can create mongoDb cluster by running docker-compose up

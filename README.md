@@ -23,3 +23,7 @@
 1. Clone the repo
 2. Run `bash.sh` on your local.
 3. MongoDB cluster is ready to use, Flask and Go applications endpoints is avaliable at your localhost.
+
+![Screenshot from 2023-04-02 18-20-12](https://user-images.githubusercontent.com/97634177/229373794-85e76ccc-4c24-431d-8416-b26b8d2f19a5.png)
+
+![Screenshot from 2023-04-02 18-22-51](https://user-images.githubusercontent.com/97634177/229373821-333e52e4-19a4-4312-82fd-613dd69278b1.png)

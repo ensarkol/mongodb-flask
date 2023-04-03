@@ -19,6 +19,15 @@
 5. When a request is made to the web application /staj path, it will return a random province data from the provinces collection(iller) in the stajdb database we created in MongoDB, also /allData endpoint used for get all collection(iller) data from database.
 
 
+
+
+
+### Solved CI/CD part with Github Actions.
+1. When the repo received new commit, new image is building in actions.
+2. Pushing new image to docker hub
+
+
+
 ### USAGE
 1. Clone the repo
 2. Run `bash.sh` on your local.
